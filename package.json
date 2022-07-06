@@ -1,5 +1,5 @@
 {
-   "name": "@springsheep/shepherd-vue",
+   "name": "@springsheep/zp-shepherd-vue",
    "version": "1.0.0",
    "description": "基于 shepherd.js 封装的 Vue.js 版本的新手引导组件。",
    "scripts": {
@@ -36,9 +36,7 @@
       "vue-template-compiler": "^2.6.14",
       "vuex": "^3.6.2"
    },
-   "engines": {
-      "node": "16"
-   },
+   "engines": {},
    "license": "MIT",
    "homepage": "https://github.com/wytxer/shepherd-vue/#readme",
    "keywords": [

@@ -4,7 +4,7 @@
  * @Author: 张鹏
  * @Date: 2022-07-04 16:35:02
  * @LastEditors: 张鹏
- * @LastEditTime: 2022-07-04 16:45:50
+ * @LastEditTime: 2022-07-06 10:02:46
 -->
 
 # Shepherd Vue
@@ -17,10 +17,10 @@
 
 ```bash
 # npm
-npm i @springsheep/shepherd-vue
+npm i @springsheep/zp-shepherd-vue
 
 # yarn
-yarn add @springsheep/shepherd-vue
+yarn add @springsheep/zp-shepherd-vue
 ```
 
 2、导入。
@@ -29,7 +29,7 @@ yarn add @springsheep/shepherd-vue
 
 ```js
 import Vue from 'vue'
-import Shepherd from '@springsheep/shepherd-vue'
+import Shepherd from '@springsheep/zp-shepherd-vue'
 
 Vue.use(Shepherd)
 
@@ -40,7 +40,7 @@ this.$shepherd(config)
 另一种是局部导入使用：
 
 ```js
-import { shepherd } from '@springsheep/shepherd-vue'
+import { shepherd } from '@springsheep/zp-shepherd-vue'
 
 // 使用
 shepherd(config)
