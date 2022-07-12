@@ -1,6 +1,6 @@
 {
    "name": "@springsheep/zp-shepherd-vue",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "基于 shepherd.js 封装的 Vue.js 版本的新手引导组件。",
    "scripts": {
       "dev": "vue-cli-service serve",
@@ -38,7 +38,7 @@
    },
    "engines": {},
    "license": "MIT",
-   "homepage": "https://github.com/wytxer/shepherd-vue/#readme",
+   "homepage": "https://github.com/springsheep/zp-shepherd-vue/#readme",
    "keywords": [
       "vue",
       "shepherd",
@@ -47,15 +47,15 @@
       "driver.js"
    ],
    "author": {
-      "name": "wytxer",
-      "url": "https://github.com/wytxer"
+      "name": "zhangpeng",
+      "url": "https://github.com/springsheep"
    },
    "repository": {
       "type": "git",
-      "url": "git@github.com:wytxer/shepherd-vue.git"
+      "url": "https://github.com/springsheep/zp-shepherd-vue.git"
    },
    "bugs": {
-      "url": "https://github.com/wytxer/shepherd-vue/issues"
+      "url": "https://github.com/springsheep/zp-shepherd-vue/issues"
    },
    "browserslist": [
       "> 1%",
